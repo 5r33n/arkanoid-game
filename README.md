@@ -6,7 +6,7 @@ A simple Arkanoid game coded with Typescript
 
 ```console
 foo@bar:~$ npm i
-foo@bar:~$ npm run
+foo@bar:~$ npm start
 ```
 
 After running, go to `localhost:1234` with your web browser.
