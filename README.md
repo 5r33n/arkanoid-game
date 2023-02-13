@@ -1,3 +1,3 @@
 # Arkanoid Game
 
-A simple Arkanoid game developed with Typescript 
+A simple Arkanoid game coded with Typescript 
